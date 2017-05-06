@@ -1,1 +1,6 @@
 # hello-world
+
+Hi 3D-slicers!
+
+I plan to contribute to 3D Slicer in the future.
+First, I'd like to learn how to write a simple module for the 3D Slicer.    
